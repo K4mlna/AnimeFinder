@@ -11,7 +11,7 @@
 - **Responsive**
 - **What did we learn ?**
 
-### Genesis : Required on your computer
+### Required on your computer
 
 In order to launch this project properly you will need to install :
 - python 
