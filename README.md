@@ -60,6 +60,7 @@ We decided to make our project a 3-Tier architecture which makes the website com
 
 Our website first communicates with the api to collect data about animes, which is graphically showed to the users of our site.
 Then, they can select their favorites which are stored in our database (as well as their login)
+Once we stored the favorites in the db, we can send them back to our website to display them on the "favorites" page
 
 ### What did we learn ?
 
