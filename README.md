@@ -1,6 +1,6 @@
-# TwitterHearts
+# AnimeFinder
 
-![Example](./assets/img/screenreadme.PNG)
+![image](https://user-images.githubusercontent.com/91453689/206312201-98f5f582-a1fb-4a3f-af14-449ba4b01548.png)
 
 ## Summary
 
