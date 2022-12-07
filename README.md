@@ -23,13 +23,14 @@ In order to launch this project properly you will need to install :
 
 As a school project, we had to create a website with a database and an api.
 
-the purpose of this project is to find animes using a searchbar, and then being able to put them in the favorites
+the purpose of this project is to find animes using a searchbar, and then being able to put them in the "favorites" section of the user
 
 Enjoy seeking the code !
 
 ### Technology
 
-For this project, we had to use various tools. Here are those we used :
+For this project, we had to use various tools. Here they are :
+
 #### HTML5
 
 Our HTML file is a fundamental here because it's like the body of our project. It allows us to define a skeleton for our website, to declare the numerous elements inside of it.  
