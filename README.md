@@ -19,6 +19,7 @@ In order to launch this project properly you will need to install :
 - axios (npm i axios)
 - nodeJS
 - djangorestframework (use the following command in the terminal of the project's file : pip install djangorestframework)
+- install an addon to desactivate the Cross-Origin Resource Sharing (CORS) for example : https://microsoftedge.microsoft.com/addons/detail/cors-unblock/hkjklmhkbkdhlgnnfbbcihcajofmjgbh
 
 ### Genesis : School project
 
