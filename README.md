@@ -4,7 +4,7 @@
 
 ## Summary
 
-- **Required on your computer :**
+- **Required on your computer**
 - **How to launch the database**
 - **Genesis :** School Project
 - **Technology**
