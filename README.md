@@ -5,6 +5,7 @@
 ## Summary
 
 - **Required on your computer :**
+- **How to launch the database**
 - **Genesis :** School Project
 - **Technology**
 - **Global Structure**
@@ -14,12 +15,16 @@
 ### Required on your computer
 
 In order to launch this project properly you will need to install :
-- python 
-- django (use the following command in your terminal : python -m pip install Django)
-- axios (npm i axios)
-- nodeJS
-- djangorestframework (use the following command in the terminal of the project's file : pip install djangorestframework)
-- install an addon to desactivate the Cross-Origin Resource Sharing (CORS) for example : https://microsoftedge.microsoft.com/addons/detail/cors-unblock/hkjklmhkbkdhlgnnfbbcihcajofmjgbh
+- Python 
+- Django (use the following command in your terminal : python -m pip install Django)
+- Axios (use the following command in the terminal of the project's root folder : npm i axios)
+- NodeJS
+- Django rest framework (use the following command in the terminal of the project's root folder : pip install djangorestframework)
+- For your web browser, install an addon to desactivate the Cross-Origin Resource Sharing (CORS) for example : https://microsoftedge.microsoft.com/addons/detail/cors-unblock/hkjklmhkbkdhlgnnfbbcihcajofmjgbh
+
+### How to launch the database :
+
+In order to launch the database, please use the command "python manage.py runserver" in the terminal of the folder animeDatabase.
 
 ### Genesis : School project
 
