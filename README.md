@@ -9,7 +9,6 @@
 - **Genesis :** School Project
 - **Technology**
 - **Global Structure**
-- **Responsive**
 - **What did we learn ?**
 
 ### Required on your computer
