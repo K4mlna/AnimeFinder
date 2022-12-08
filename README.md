@@ -15,9 +15,10 @@
 
 In order to launch this project properly you will need to install :
 - python 
-- django
-- axios
+- django (use the following command in your terminal : python -m pip install Django)
+- axios (npm i axios)
 - nodeJS
+- djangorestframework (use the following command in the terminal of the project's file : pip install djangorestframework)
 
 ### Genesis : School project
 
