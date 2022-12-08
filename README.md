@@ -29,7 +29,7 @@ In order to launch the database, please use the command "python manage.py runser
 
 As a school project, we had to create a website with a database and an api.
 
-the purpose of this project is to find animes using a searchbar, and then being able to put them in the "favorites" section of the user
+the purpose of this project is to find animes using a searchbar, after registering and logging in.
 
 Enjoy seeking the code !
 
@@ -47,7 +47,7 @@ our stylesheets are really useful since they allow us to style every single elem
 
 #### Font Awesome
 
-Now, this skin must be enriched with some original visuals such as beautiful icons, and Font Awesome is really great at this job because it delivers almost endless possibilities for our icons, even more if you own the pro version. (but for this project this is not my case)   
+Now, this skin must be enriched with some original visuals such as beautiful icons, and Font Awesome is really great at this job because it delivers almost endless possibilities for our icons, even more if you own the pro version. (but for this project this is not our case)   
 
 #### Javascript
 
@@ -55,27 +55,23 @@ Javascript is allowing us to add a lot of dynamism to our elements to enhance th
 
 #### Django
 
-Our database was made with Django, a python framework. This is the "memory" of our project, it allows us to store informations such as the id and passwords of our users, aswell as their favorite animes 
+Our database was made with Django, a python framework. This is the "memory" of our project, it allows us to store informations such as the id and passwords of our users.
 
 #### Anilist API
 
 this api is the main content of our website. It allows us to collect the titles and the images of the animes we search.
 
-### Global Structure : Designing our website
+### Global Structure
 
-We decided to make our project a 3-Tier architecture which makes the website communicate with an api and a database.
-
-Our website first communicates with the api to collect data about animes, which is graphically showed to the users of our site.
-Then, they can select their favorites which are stored in our database (as well as their login)
-Once we stored the favorites in the db, we can send them back to our website to display them on the "favorites" page
+Our website is divided in 4 pages. The first one is the entrance of the site which leads to two others pages : "logging in" and "registering". These pages both communicates with the database to store the usernames and passwords of our users. The page "registering" leads to logging in once the user was able to register, and "logging in" leads to the home page of the site. This home page communicates with the api to collect data about animes, which is graphically showed to the users of our site through this page.
 
 ### What did we learn ?
 
-This project gave us the opportunity to enhance the knowledge we already had in these different sectors appart, but also to work in group (which is not an easy task when we have no global organization). Moreover, it helped us understand better the concepts of architecture behind bigger project.
+This project gave us the opportunity to enhance the knowledge we already had in these different sectors appart, but also to work in group (which is not an easy task when we have a lack of global organization). Moreover, it helped us understand better the concepts of architecture behind bigger projects.
 
 ### Credits
 
-Adrien CLEMENCEAU
-Tawan-François ASSELAIN
-Timothé PEYREGNE
-Arnaud DISSONGO
+- Adrien CLEMENCEAU
+- Tawan-François ASSELAIN
+- Timothé PEYREGNE
+- Arnaud DISSONGO
