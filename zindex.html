@@ -1,0 +1,27 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Finder</title>
+    <script src="./assets/app.js"></script>
+    <script type="text/javascript" src="node_modules/axios/dist/axios.js"></script>
+    <script src="node_modules/fs"></script>
+    <link rel="stylesheet" href="./assets/zzapp.css">
+    <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+    <!-- Barre de recherche-->
+    <input class=input type="text" id="input" placeholder="type the name of the anime you wanna find">
+    <button class = input2><i class="fas fa-search" onClick="generateDiv()"></i></button>
+    <button class = input2>se déconnecter</button>
+
+    <!-- Les divs(img,titre) sont générés dans la partie JS -->
+    <div id="animeContainer" onclick="clickEvent()"></div>
+
+</body>
+
+</html>
