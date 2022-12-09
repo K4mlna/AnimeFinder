@@ -21,9 +21,11 @@ In order to launch this project properly you will need to install :
 - Django rest framework (use the following command in the terminal of the project's root folder : pip install djangorestframework)
 - For your web browser, install an addon to desactivate the Cross-Origin Resource Sharing (CORS) for example : https://microsoftedge.microsoft.com/addons/detail/cors-unblock/hkjklmhkbkdhlgnnfbbcihcajofmjgbh
 
-### How to launch the database :
+### How to launch the project:
 
 In order to launch the database, please use the command "python manage.py runserver" in the terminal of the folder animeDatabase.
+
+Then, you can just open the html file called "starter.html"
 
 ### Genesis : School project
 
