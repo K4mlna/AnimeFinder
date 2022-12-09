@@ -5,7 +5,7 @@
 ## Summary
 
 - **Required on your computer**
-- **How to launch the database**
+- **How to launch the project**
 - **Genesis :** School Project
 - **Technology**
 - **Global Structure**
